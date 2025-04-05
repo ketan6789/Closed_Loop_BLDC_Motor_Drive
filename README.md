@@ -1,5 +1,8 @@
 # Design and Development of a Bicycle Based on BLDC Motor Drive
 
+![image](https://github.com/user-attachments/assets/70774e97-5498-40fa-bbe2-e15c952afa01)
+
+
 ## Overview
 
 This repository contains the MATLAB Simulink model for a BLDC motor-driven electric bicycle. The model is designed to simulate and analyze the performance of a BLDC motor using an inverter-based electronic commutation system with Hall sensor feedback. A PID-based closed-loop speed controller is implemented to ensure precise speed regulation.
