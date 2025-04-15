@@ -25,10 +25,10 @@ This repository contains the MATLAB Simulink model for a BLDC motor-driven in cl
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/bldc-bicycle.git
+   git clone https://github.com/ketan6789/Closed_Loop_BLDC_Motor_Drive.git
    ```
 2. Open MATLAB and navigate to the project directory.
-3. Open the Simulink model (`bldc_bicycle.slx`).
+3. Open the Simulink model (`BLDC_CLOSED_LOOP.slx`).
 4. Run the simulation and observe motor behavior.
 
 ## Current Status
